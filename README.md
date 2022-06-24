@@ -20,8 +20,8 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 ```
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: Kaushika.A
-RegisterNumber: 21500112
+Developed by: Gautham M 
+RegisterNumber: 212221230027
 */
 ```
 ```python
